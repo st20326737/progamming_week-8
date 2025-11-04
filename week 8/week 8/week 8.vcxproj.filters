@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="colour.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="colour.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="point2f.hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="point2f.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

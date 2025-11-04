@@ -123,9 +123,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="colour.cpp" />
-    <ClCompile Include="colour.h" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="point2f.cpp" />
+    <ClCompile Include="point2f.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
